@@ -1,0 +1,51 @@
+body {
+	background: #87D3ED;
+}
+.big-table table{
+	border-collapse: collapse;
+	width: 100%;
+	height: auto;
+}
+
+a {
+	outline: none;
+	text-decoration: none;
+	position: relative;
+	color: #9e9ba4;
+	display: inline-block;
+}
+
+.name {
+	text-align: center;
+	font-family: fantasy;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.tableheader {
+	text-align: center;
+	font-family: cursive;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.welcome{
+	text-align: left;
+	font-family: Lucida Calligraphy, cursive;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.pagenotifier{
+	text-align: center;
+	font-family: Times New Roman, serif;
+	font-size: 30px;
+	font-style: italic;
+	background-color: #B7FFEE
+}
+.hello{
+      font-family: Lucida Calligraphy, cursive;
+      text-align: center;
+      font-style: italic;
+      font-size: 20px;
+}
