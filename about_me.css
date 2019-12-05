@@ -3,8 +3,8 @@ body {
 }
 .big-table table{
 	border-collapse: collapse;
-	//width: 100%;
-	//height: 100%;
+	width: 100%;
+	height: 100%;
 }
 
 a {
@@ -29,12 +29,6 @@ a {
 	font-weight: bold;
 }
 
-.welcome{
-	text-align: left;
-	font-family: Lucida Calligraphy, cursive;
-	font-size: 40px;
-	font-weight: bold;
-}
 
 .pagenotifier{
 	text-align: center;
